@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <title>Foundation Assignment</title>
+
+</head>
+<!--Body/Header/Header text/Paragaph-->
+<body>
+    <h1>Foundation Assignment 1.2</h1>
+    <h2>Headers and Paragraphs</h2>
+    <P>In this section I will be creating a standard 
+        header with paragraph sections
+    </P>
+    <p>
+        <image id="memeimage"
+        src="tanjiro.jpg"></image>
+    </p>
+    
+</body>
+</html>
